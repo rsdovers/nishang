@@ -1,3 +1,12 @@
+0.6.4
+- Added ActiveDirecotry directory.
+- Added Get-UnConstrained.ps1 to the ActiveDirectory directory.
+- Added Invoke-Mimikatz (mimikatz version 2.1 alpha 17/02//2016) 
+to the Gather Directory.
+0.6.3
+- Added Invoke-Interceptor to the MITM directory.
+0.6.2
+- Added support for dumping cleartext credentials from RDP sessions for Invoke-MimikatzWfigestDowngrade.
 0.6.1
 - Added Show-TargetScreen to the Gather directory.
 0.6.0
